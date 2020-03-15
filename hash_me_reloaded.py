@@ -1,7 +1,8 @@
 import requests
 import re
+import hashlib
 
-REQUEST_URL = r'https://ringzer0ctf.com/challenges/32/'
+REQUEST_URL = r'https://ringzer0ctf.com/challenges/14/'
 LOGIN_URL = 'http://ringzer0team.com/login'
 MESSAGE_REGEX = r'---- BEGIN MESSAGE -----<br />\r\n\t\t(.*)<'
 FLAG_REGEX = r'(FLAG-\w+)'
@@ -21,19 +22,17 @@ def extract_data(response_text, regex):
     return ''
 
 
-def calc(expression):
-    parts = expression.split(' ')
-    a = int(parts[0])
-    b = int(parts[2], 16)
-    c = int(parts[4], 2)
-    return str(a + b - c)
+def get_hash(text):
+    n = int(text, 2)
+    text = n.to_bytes((n.bit_length() + 7) // 8, 'big').decode()
+    return hashlib.sha512(text.encode('utf8')).hexdigest()
 
 
 def main():
     cookie = input("ENTER YOUR PHPSESSID:   ")
     response = get_response(cookie)
     expression = extract_data(response, MESSAGE_REGEX)
-    key = calc(expression)
+    key = get_hash(expression)
     new_response = get_response(cookie, key)
     flag = extract_data(new_response, FLAG_REGEX)
     print(flag)
