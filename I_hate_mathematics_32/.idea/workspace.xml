@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94551b2-d9df-4fde-802a-99afebdf3cf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yseo0y2rtbB5mFCA0CqiH1uOsq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hash_it_if_you_can" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="git_shit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hash_it_if_you_can" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/git_shit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hash_it_if_you_can" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tokenize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hash_it_if_you_can" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/usr/lib/python3.6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="/usr/lib/python3.6/tokenize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.shit" />
+        <item itemvalue="Python.tokenize" />
+        <item itemvalue="Python.git_shit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94551b2-d9df-4fde-802a-99afebdf3cf2" name="Default Changelist" comment="" />
+      <created>1583735899679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583735899679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="244" key="#xdebugger.evaluate" timestamp="1583871205739">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="551" y="244" key="#xdebugger.evaluate/0.27.1920.1053@0.27.1920.1053" timestamp="1583871205739" />
+    <state x="743" y="311" width="424" height="480" key="FileChooserDialogImpl" timestamp="1583908239236">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="480" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1583908239236" />
+    <state width="914" height="242" key="GridCell.Tab.0.bottom" timestamp="1584294216716">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="242" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584294216716" />
+    <state width="914" height="242" key="GridCell.Tab.0.center" timestamp="1584294216716">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="242" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584294216716" />
+    <state width="914" height="242" key="GridCell.Tab.0.left" timestamp="1584294216716">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="242" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584294216716" />
+    <state width="914" height="242" key="GridCell.Tab.0.right" timestamp="1584294216716">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="242" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584294216716" />
+    <state width="1874" height="38" key="GridCell.Tab.1.bottom" timestamp="1584089839490">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="38" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1584089839490" />
+    <state width="1874" height="38" key="GridCell.Tab.1.center" timestamp="1584089839488">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="38" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1584089839488" />
+    <state width="1874" height="38" key="GridCell.Tab.1.left" timestamp="1584089839488">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="38" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1584089839488" />
+    <state width="1874" height="38" key="GridCell.Tab.1.right" timestamp="1584089839489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="38" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1584089839489" />
+    <state width="960" height="526" key="XDebugger.FullValuePopup" timestamp="1583871190535">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="960" height="526" key="XDebugger.FullValuePopup/0.27.1920.1053@0.27.1920.1053" timestamp="1583871190535" />
+    <state x="623" y="259" key="search.everywhere.popup" timestamp="1583870298057">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1583870298057" />
+  </component>
+</project>
